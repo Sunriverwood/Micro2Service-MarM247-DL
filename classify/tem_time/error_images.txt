@@ -1,0 +1,241 @@
+./superalloy_data/heat_exposure_photos/test\1000¡æ_1000h\1000-1000h-T1-10000_002_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_1000h\1000-1000h-T1-10000_004_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_1000h\Mar247-1000-1000h-1000-01_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_1000h\Mar247-1000-1000h-1000-01_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_1000h\Mar247-1000-1000h-10000-022_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-16000H-10000x_02_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-16000H-10000x_05_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-16000H-20000x_01_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-16000H-20000x_04_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-191511#-T1-5000_003_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-194312#-T1-10000_018_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-194312#-T2-10000_010_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-194312#-T2-1000_002_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_16000h\1000D-194312#-T2-1000_006_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_24000h\Mar-M247-1000-24000h-T2-1000x_001_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_24000h\Mar-M247-1000-24000h-T2-1000x_001_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_24000h\Mar-M247-1000-24000h-T2-1000x_015_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_24000h\Mar-M247-1000-24000h-T2-5000x_003_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_24000h\Mar-M247-1000-24000h-T2-5000x_003_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_24000h\Mar-M247-5000-24000h-T2-10000x_002_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_3000h\1000-3000h-T1-10000_001_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_3000h\Mar247-1000-3000h-20000-044_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_300h\Mar247-211912 -300h-1000-02_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_300h\Mar247-211912 -300h-10000-011_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_300h\Mar247-211912 -300h-10000-033_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_300h\Mar247-211912 -300h-20000-022_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_5000h\Mar247-1000-5000h-1000-01_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_5000h\Mar247-1000-5000h-20000-066_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-1000-01_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-10000-011_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-10000-011_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-10000-022_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-10000-033_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-10000-033_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-20000-01_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_500h\Mar247-211912 -500h-20000-055_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\1000¡æ_8000h\1000-8000h-T1-10000_002_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_100h\Mar247-211907 -100h-1000_002_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_100h\Mar247-211907 -100h-1000_005_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_16000h\700D-192907#-T2-1000_005_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_24000h\Mar247-700-24000h-20000-022_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_24000h\Mar247-700-24000h-20000-022_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_3000h\MarM247-700-3000H-1000-02_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_3000h\MarM247-700-3000H-1000-02_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_8000h\700-8000h--T2-10000_006_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\700¡æ_8000h\MarM247-700-8000h-1000-02_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_1000h\800-1000h--T2-10000_0007_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_1000h\800-1000h--T2-10000_003_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_1000h\800-1000h--T2-10000_003_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_1000h\800-1000h-T1-10000_0006_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_1000h\800-1000h-T1-35000_0001_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_1000h\800-1000h-T1-5000_0001_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_1000h\MarM247-800-1000h-1000-01_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_100h\Mar247-211908 -100h-1000_005_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194311#-T1-10000_010_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194311#-T1-10000_014_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194311#-T2-10000_002_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194311#-T2-10000_009_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194311#-T2-20000_0028_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194811#-T1-10000_007_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194811#-T2-10000_006_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_16000h\800D-194811#-T2-1000_001_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_24000h\Mar247-800-24000h-20000-01_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_3000h\800-3000h--T2-10000_002_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_3000h\800-3000h-T1-10000_004_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_3000h\800-3000h-T2-5000_001_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_300h\Mar247-211908 -300h-1000-001_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_32000h\800d-33503h-10000x_001_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_32000h\800d-33503h-10000x_007_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_32000h\800d-33503h-10000x_007_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_32000h\800d-33503h-20000x_008_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_5000h\Mar247-800-5000h-10000-011_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_5000h\Mar247-800-5000h-10000-022_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_5000h\Mar247-800-5000h-500-01_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_500h\Mar247-211908 -500h-1000-03_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\800-8000h-T1-10000_005_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\800-8000h-T1-5000_001_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\800-8000h-T2-10000_001_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\800-8000h-T2-10000_001_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\800-8000h-T2-10000__cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\800-8000h-T2-20000_0001_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\Mar247-800-8000h-10000-022_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\800¡æ_8000h\Mar247-800-8000h-500-01_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_1000h\850-1000h--T2-10000_003_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_1000h\850-1000h-T1-10000_002_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_1000h\MarM247-850-1000h-10000-033_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_1000h\MarM247-850-1000h-20000-033_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850-16000h-T1-10000_002_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850-16000h-T1-10000_003_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-1600-T1-20000_003_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-1600-T1-20000_04_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193010#-T1-1000_005_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193010#-T2-10000_007_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193010#-T2-10000_011_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193010#-T2-10000_015_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193010#-T2-5000_001 (6)_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193010#-T2-5000_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193010#-T2-5000_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193012#-T1-1000_004_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193012#-T2-10000_001_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193012#-T2-1000_001_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193012#-T2-1000_002_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193012#-T2-1000_003_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\850D-193012#-T2-1000_004_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\Mar247-850-16000h-20000-01_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_16000h\Mar247-850-16000h-20000-01_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_24000h\850d-24000H-10000x_01_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_24000h\850d-24000H-10000x_03_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_24000h\850d-24000H-10000x_08_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_24000h\850D-24000H-20000x_10_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_3000h\Mar247-850-3000h-1000-01_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_3000h\Mar247-850-3000h-1000-02_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_3000h\Mar247-850-3000h-10000-044_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_3000h\Mar247-850-3000h-10000-044_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_5000h\850-5000h--T2-10000_003_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_5000h\850-5000h-T1-10000_003_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_5000h\MarM247-850-5000h-10000-055_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_500h\Mar247-211909 -500h-1000-01_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_500h\Mar247-211909 -500h-1000-02_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_500h\Mar247-211909 -500h-10000-044_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_500h\Mar247-211909 -500h-10000-044_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_8000h\850-8000h--T2-10000_003_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_8000h\850-8000h--T2-10000_003_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\850¡æ_8000h\danjing-10000-01_002_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\900-1000h-T1-10000_004_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\900D-1000H-10000x_01_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\900D-1000H-10000x_03_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\900D-1000H-1000x_001_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\900D-1000H-1000x_001_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\MarM247-900-1000h-1000-01_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\MarM247-900-1000h-1000-01_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\MarM247-900-1000h-10000-011_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_1000h\MarM247-900-1000h-10000-066_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900-16000h--T2-20000__cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900-16000h--T2-20000__cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900-16000h-T1-10000_002_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900-16000h-T1-10000_002_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900-16000h-T1-10000_002_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-16000H-10000x_01_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-16000H-10000x_05_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-16000H-10000x_06_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-16000H-10000x_06_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-16000H-20000x_01_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-191409#-T1-10000_009_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-191409#-T1-10000_014_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-191409#-T1-10000_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-191409#-T1-20000_005_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-191409#-T2-10000_002_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-191409#-T2-10000_002_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-191409#-T2-5000_005_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-194407#-T1-10000_010_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-194407#-T1-1000_003_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-194407#-T2-10000_007_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\900D-194407#-T2-5000_001_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_16000h\MarM247-900-16000h-1000-03_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_24000h\900D-16000H-20000x_06_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_24000h\900D-16000H-20000x_06_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_24000h\900D-24000H-10000x_01_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_24000h\Mar247-900-24000h-20000-011_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\900-3000h-T1-10000_002_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\900D-3000H-10000x_02_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\900D-3000H-10000x_05_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\900D-3000H-10000x_08_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\900D-3000H-1000x_001_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\900D-3000H-20000x_04_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\900D-3000H-20000x_07_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\Mar247-900-3000h-10000-066_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_3000h\Mar247-900-3000h-20000-066_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_300h\Mar247-211910 -300h-1000-02_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\900-5000h--T2-10000_006_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\900-5000h-T1-10000_002_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\900D-5000H-10000x_02_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\900D-5000H-10000x_05_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\Mar247-900-5000h-1000-01_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\Mar247-900-5000h-1000-02_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\Mar247-900-5000h-10000-011_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\Mar247-900-5000h-20000-01_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\Mar247-900-5000h-20000-01_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\Mar247-950-5000h-10000-022_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_5000h\Mar247-950-5000h-20000-02_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_500h\Mar247-211910 -500h-10000-044_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_500h\Mar247-211910 -500h-20000-044_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_8000h\900D-8000H-10000x_001_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_8000h\900D-8000H-1000x_010_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_8000h\900D-8000H-20000x_02_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_8000h\MarM247-900-8000h-1000-02_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\900¡æ_8000h\MarM247-900-8000h-10000-044_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950-1000h--T2-10000_004_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950-1000h--T2-10000_004_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950-1000h-T1-10000_003_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950-1000h-T1-10000_004_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950d-1000H-10000x_01_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950d-1000H-10000x_02_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950d-1000H-10000x_06_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950d-1000H-10000x_09_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_1000h\950d-1000H-20000x_06jpg_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_100h\Mar247-211911 -100h-10000_0011_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_100h\Mar247-211911 -100h-10000_0011_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_100h\Mar247-211911 -100h-1000_001_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_100h\Mar247-211911 -100h-1000_005_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-16000H-20000x_03_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194810#-T1-10000_003_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194810#-T1-20000_002_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194810#-T1-20000_003_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194810#-T1-20000_003_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194810#-T2-1000_004_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194812#-T1-10000_014_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194812#-T1-1000_004_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194812#-T2-5000_012_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_16000h\950D-194812#-T2-5000_013_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T1-1000x_001_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T2-10000x_0002_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T2-10000x_0002_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T2-20000x_0002_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T2-50000x_0002_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T2-5000x_0004_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T2-5000x_0006_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_24000h\Mar-M247-950-24000-T2-500x_0001_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_3000h\950-3000h-T1-10000_001_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_3000h\950-3000h-T1-10000_002_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_3000h\950-3000h-T1-10000_002_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_3000h\950d-3000H-10000x_03_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_3000h\Mar247-950-3000h-1000-01_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_3000h\Mar247-950-3000h-10000-066_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_300h\Mar247-211911 -300h-10000-011_cropped_1.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_300h\Mar247-211911 -300h-10000-033_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_300h\Mar247-211911 -300h-20000-011_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_5000h\950d-5000H-10000x_09_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_5000h\950d-5000H-10000x_09_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_5000h\950d-5000H-10000x_10_cropped_2.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_500h\Mar247-211911-1000-01_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_500h\Mar247-211911-1000-02_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_500h\Mar247-211911-10000-022_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_500h\Mar247-211911-20000-011_cropped_3.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_500h\Mar247-211911-20000-044_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_8000h\950D-8000H-10000x_08_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_8000h\950D-8000H-10000x_08_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_8000h\950D-8000H-20000x_07_cropped_4.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_8000h\950D-8000H-20000x_07_cropped_5.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_8000h\950D-8000H-5000x_002_cropped_6.jpg
+./superalloy_data/heat_exposure_photos/test\950¡æ_8000h\Mar247-950-8000h-5000-01_cropped_5.jpg

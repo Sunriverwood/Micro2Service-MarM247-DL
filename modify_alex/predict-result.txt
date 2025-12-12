@@ -1,0 +1,80 @@
+all-all
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict.py
+Total images: 2447, Correct predictions: 2286
+Accuracy: 93.42%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict-r.py
+--- Temperature Prediction Evaluation ---
+MSE: 187.993, MAE: 8.453, R²: 0.975
+
+--- Time Prediction Evaluation ---
+MSE: 1549291.750, MAE: 437.172, R²: 0.979
+
+Results saved to reg/all-all.csv
+
+进程已结束，退出代码为 0
+
+filter-filter
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict.py
+Total images: 1483, Correct predictions: 1415
+Accuracy: 95.41%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict-r.py
+--- Temperature Prediction Evaluation ---
+MSE: 100.138, MAE: 6.675, R²: 0.987
+
+--- Time Prediction Evaluation ---
+MSE: 416273.094, MAE: 357.045, R²: 0.995
+
+Results saved to reg/filter-filter.csv
+
+进程已结束，退出代码为 0
+
+
+all-filter
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict.py
+Total images: 1483, Correct predictions: 1430
+Accuracy: 96.43%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0
+
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict-r.py
+--- Temperature Prediction Evaluation ---
+MSE: 117.563, MAE: 7.228, R²: 0.985
+
+--- Time Prediction Evaluation ---
+MSE: 1188779.750, MAE: 417.151, R²: 0.985
+
+Results saved to reg/all-filter.csv
+
+进程已结束，退出代码为 0
+
+
+filter-all
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict.py
+Total images: 2447, Correct predictions: 1707
+Accuracy: 69.76%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\modify_alex\predict-r.py
+--- Temperature Prediction Evaluation ---
+MSE: 2965.990, MAE: 29.223, R²: 0.613
+
+--- Time Prediction Evaluation ---
+MSE: 22786984.000, MAE: 2185.030, R²: 0.689
+
+Results saved to reg/filter-all.csv
+
+进程已结束，退出代码为 0
+

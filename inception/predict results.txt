@@ -1,0 +1,40 @@
+filter
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\inception\predict_r.py
+--- Temperature Prediction Evaluation ---
+MSE: 4627.057, MAE: 54.333, R²: 0.416
+
+--- Time Prediction Evaluation ---
+MSE: 69463104.000, MAE: 5789.448, R²: 0.119
+
+Results saved to reg/predictions_results.csv
+
+进程已结束，退出代码为 0
+
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\inception\predict.py
+Total images: 1483, Correct predictions: 201
+Accuracy: 13.55%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0
+
+all
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\inception\predict_r.py
+--- Temperature Prediction Evaluation ---
+MSE: 10082.142, MAE: 70.673, R²: -0.315
+
+--- Time Prediction Evaluation ---
+MSE: 62351520.000, MAE: 5747.496, R²: 0.149
+
+Results saved to reg/predictions_results.csv
+
+进程已结束，退出代码为 0
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\inception\predict.py
+Total images: 2447, Correct predictions: 339
+Accuracy: 13.85%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0

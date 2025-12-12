@@ -1,0 +1,41 @@
+all
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\resnet\predict.py
+Total images: 2447, Correct predictions: 844
+Accuracy: 34.49%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0
+
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\resnet\predict-r.py
+--- Temperature Prediction Evaluation ---
+MSE: 183.708, MAE: 9.630, R²: 0.976
+
+--- Time Prediction Evaluation ---
+MSE: 1054245.625, MAE: 638.970, R²: 0.986
+
+Results saved to reg/predictions_results.csv
+
+进程已结束，退出代码为 0
+
+
+Filter
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\resnet\predict-r.py
+--- Temperature Prediction Evaluation ---
+MSE: 139.950, MAE: 9.072, R²: 0.982
+
+--- Time Prediction Evaluation ---
+MSE: 940328.375, MAE: 712.201, R²: 0.988
+
+Results saved to reg/predictions_results.csv
+
+进程已结束，退出代码为 0
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\resnet\predict.py
+Total images: 1483, Correct predictions: 1295
+Accuracy: 87.32%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0

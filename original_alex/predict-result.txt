@@ -1,0 +1,26 @@
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\original_alex\predict.py
+Total images: 2447, Correct predictions: 2250
+Accuracy: 91.95%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+进程已结束，退出代码为 0
+
+
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\original_alex\predict.py
+Total images: 1483, Correct predictions: 1428
+Accuracy: 96.29%
+Confusion matrix saved to 'confusion_matrix.csv'
+
+
+
+C:\Users\SUN\anaconda3\envs\DL\python.exe D:\Pycharm\Projects\DONGFANG\original_alex\predict-r.py
+--- Temperature Prediction Evaluation ---
+MSE: 2815.203, MAE: 37.172, R²: 0.633
+
+--- Time Prediction Evaluation ---
+MSE: 21781186.000, MAE: 2617.853, R²: 0.703
+
+Results saved to reg/predictions_results.csv
+
+进程已结束，退出代码为 0
