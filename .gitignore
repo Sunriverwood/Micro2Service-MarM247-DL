@@ -1,3 +1,4 @@
 *.pth
 /superalloy_data/
 stress/
+classify+regression/
