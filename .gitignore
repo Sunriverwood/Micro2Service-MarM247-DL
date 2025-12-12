@@ -2,3 +2,5 @@
 /superalloy_data/
 stress/
 classify+regression/
+*.pyc
+__pycache__/
