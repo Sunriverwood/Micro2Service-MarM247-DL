@@ -176,7 +176,7 @@ Different model configurations are saved in:
 - `resnet/parameter/`: ResNet50 parameters
 
 Additional specialized parameters:
-- `parameter-0C/`: Models for 0°C baseline conditions
+- `parameter-0C/`: Models for images without carbides
 - `reg/`: Regression-specific parameters
 
 ## Notes

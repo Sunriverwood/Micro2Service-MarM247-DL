@@ -15,13 +15,13 @@ def main():
     random.seed(42)
 
     # 设置训练集、验证集和测试集的比例
-    train_rate = 0.8
-    val_rate = 0.1
-    test_rate = 0.1
+    train_rate = 0.6
+    val_rate = 0.2
+    test_rate = 0.2
 
     # 指向你解压后的photos文件夹
     data_root = os.path.abspath(os.getcwd())
-    origin_photo_path = os.path.join(data_root, "superalloy_data", "creep-photos", "PlainImages")
+    origin_photo_path = os.path.join(data_root, "superalloy_data", "heat-photos", "PlainImages")
     assert os.path.exists(origin_photo_path), "path '{}' does not exist.".format(origin_photo_path)
 
     photo_class = [cla for cla in os.listdir(origin_photo_path)
